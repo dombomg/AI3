@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    label[0] : {"text" : ["중국식 냉면은 시원해"], "images" : ["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"]},
+    label[0] : {"text" : ["중국식냉면은 시원해"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
     label[1] : {"text" : ["짜장면은 달아"], "images" : ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230628/gv00000707399_1.jpg"]},
     label[2] : {"text" : ["짬뽕은 매콤해"], "images" : ["https://cdn.chunsa.kr/news/photo/202204/53457_19430_726.jpg"]},
     label[3] : {"text" : ["탕수육은 바삭해"], "images" : ["https://mblogthumb-phinf.pstatic.net/MjAyMTAyMTJfMTE1/MDAxNjEzMTMxNjg5Nzky.QfsDVNvBTr67340jJ-DQdNxPByX6CqUq8rWy4Te4bmEg.4TJeK3uT4ZM6fXKyRCQprcgZEgR5s06SJvV_yCjdfAcg.JPEG.eosllover/SE-4479e5d0-e873-4275-9d9f-5630144b2477.jpg?type=w800"]},
